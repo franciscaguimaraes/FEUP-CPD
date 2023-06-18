@@ -1,9 +1,7 @@
-# CPD Projects
+# FEUP-CPD
+Project developed for Parallel and Distributed Computing class
 
-CPD Projects of group T03G16.
+- assign 1: 15.2
+- assign 2: 17.7
 
-Group members:
-
-1. Bruna Marques (up202007191@edu.fe.up.pt)
-2. Francisca Guimarães (up202004229@edu.fe.up.pt)
-3. Inês Oliveira (up202103343@edu.fe.up.pt)
+Developed by Bruna Marques, Francisca Guimarães and Inês Oliveira
